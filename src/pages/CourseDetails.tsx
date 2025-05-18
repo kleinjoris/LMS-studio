@@ -32,7 +32,7 @@ const CourseDetails = () => {
     level: 'All Levels',
     lastUpdated: '2023-09-15T00:00:00Z',
     language: 'English',
-    description: 'Learn web development from scratch with this comprehensive bootcamp. You'll master HTML, CSS, JavaScript, React, Node.js, MongoDB, and more. By the end of this course, you'll be able to build complete web applications and launch your career as a web developer.',
+    description: 'Learn web development from scratch with this comprehensive bootcamp. You will master HTML, CSS, JavaScript, React, Node.js, MongoDB, and more. By the end of this course, you will be able to build complete web applications and launch your career as a web developer.',
     whatYouWillLearn: [
       'Build 25+ projects including a full-fledged e-commerce site',
       'Master front-end technologies like HTML, CSS, JavaScript, and React',
@@ -42,7 +42,7 @@ const CourseDetails = () => {
       'Understand modern web development best practices',
     ],
     requirements: [
-      'No prior programming experience needed - we'll start from the basics',
+      'No prior programming experience needed - we will start from the basics',
       'A computer with internet access (Windows, macOS, or Linux)',
       'Desire to learn and build real-world applications',
     ],
@@ -139,7 +139,7 @@ const CourseDetails = () => {
       rating: 5,
       date: '2023-10-12T12:30:00Z',
       title: 'Exactly what I needed to start my career',
-      content: 'This course is comprehensive and well-structured. I had no prior programming experience, but the instructor breaks down complex concepts into digestible pieces. I've completed 60% of the course and have already built several projects for my portfolio. Highly recommended!',
+      content: 'This course is comprehensive and well-structured. I had no prior programming experience, but the instructor breaks down complex concepts into digestible pieces. I have completed 60% of the course and have already built several projects for my portfolio. Highly recommended!',
     },
     {
       id: 'review-2',
@@ -150,7 +150,7 @@ const CourseDetails = () => {
       rating: 5,
       date: '2023-09-28T15:45:00Z',
       title: 'Best web development course on the platform',
-      content: 'I've taken several web development courses, and this is by far the best one. The projects are practical and relevant to today's industry standards. The instructor's teaching style is clear and engaging. I particularly enjoyed the sections on React and Node.js. Worth every penny!',
+      content: 'I have taken several web development courses, and this is by far the best one. The projects are practical and relevant to today industry standards. The instructor\'s teaching style is clear and engaging. I particularly enjoyed the sections on React and Node.js. Worth every penny!',
     },
     {
       id: 'review-3',
@@ -161,7 +161,7 @@ const CourseDetails = () => {
       rating: 4,
       date: '2023-10-05T09:15:00Z',
       title: 'Great content, but some sections need updating',
-      content: 'The course content is excellent overall, and I've learned a lot. However, some of the JavaScript frameworks sections could use updating to reflect the latest versions. That said, the fundamentals are solid, and the instructor is very responsive in the Q&A section. I would still recommend this course to beginners.',
+      content: 'The course content is excellent overall, and I have learned a lot. However, some of the JavaScript frameworks sections could use updating to reflect the latest versions. That said, the fundamentals are solid, and the instructor is very responsive in the Q&A section. I would still recommend this course to beginners.',
     },
   ];
 
